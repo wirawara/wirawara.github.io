@@ -1,2 +1,2 @@
-# wirawara.github.io
+# Andrea Komljenovic
 Andrea's github pages
