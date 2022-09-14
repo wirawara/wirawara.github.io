@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Komljenovic - Curriculum Vitae on </title>
+    <link>https://andreakomljenovic.github.io/</link>
+    <description>Recent content in Andrea Komljenovic - Curriculum Vitae on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://andreakomljenovic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conferences</title>
+      <link>https://andreakomljenovic.github.io/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreakomljenovic.github.io/conferences/</guid>
+      <description>2018 CIG symposium - Aging and Anti-aging
+June 21 - 22; Lausanne, Switzerland
+contribution(s): oral 2017 Basel Computation Biology Conference
+September 13 - 15; Basel, Switzerland
+contribution(s): oral and 3rd poster prize
+Gordon Research Conference - Biology of Aging
+July 9 - 14; Les Diablerets, Switzerland
+contribution(s): poster
+ISMB/ECCB Prague
+July 21 - 25; Prague, Czech Republic contribution(s): poster
+2016 EuroBioc2016
+December 6 - 7; Basel, Switzerland
+contribution(s): oral
+Cell Symposia on Aging and Metabolism</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://andreakomljenovic.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreakomljenovic.github.io/publications/</guid>
+      <description>Publications Komljenovic A*, Roux J*, Wollbrett J, Robinson-Rechavi M, Bastian FB (2018): BgeeDB, an R package for retrieval of curated expression datasets and for gene list expression localization enrichment tests. F1000Research 5:2748. Komljenovic A, Li H, Kutalik Z, Auwerx J, Robinson-Rechavi M (2019): Cross-species functional modules link proteostasis to human normal aging. PLoS Computational Biology 15 (7), e1007162. Li H, Rukina D, David FPA, Li TY, Oh CM, Gao AW, Katsyuba E, Bou Sleiman M, Komljenovic A, Huang Q, Williams RW, Robinson-Rechavi M, Shoojans K, Morgenthaler S, Auwerx J (2019): Identifying gene function and module connections by the integration of multispecies expression compendia.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://andreakomljenovic.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreakomljenovic.github.io/software/</guid>
+      <description>Packages Komljenovic A, Julien Roux, Marc Robinson-Rechavi, Frédéric Bastian (2016):
+BgeeDB, an R package for retrieval of curated expression datasets and for gene list enrichment tests.
+Bioconductor </description>
+    </item>
+    
+  </channel>
+</rss>
