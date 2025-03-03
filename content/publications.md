@@ -37,11 +37,9 @@ https://doi.org/10.1371/journal.pone.0165850)
 [![](/icons16/pdf-icon.png)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3740287/pdf/oncsis201321a.pdf)
 [![](/icons16/github-icon.png)](https://github.com/wirawara/Oncogenesis-paper-)
 
-### Preprints / preparation
+- <b>Komljenovic A</b>, Frochaux M, Gardeux V, Deplancke B, Robinson-Rechavi M (2020): *Deciphering sex differences of the dynamic transcriptional signatures during D. melanogaster aging*. (prepared, submitted to Genome Research and biorxiv).
 
-- <b>Komljenovic A</b>, Frochaux M, Gardeux V, Deplancke B, Robinson-Rechavi M (2020): *Deciphering sex differences of the dynamic transcriptional signatures during D. melanogaster aging*. (in preparation, to be submitted to Genome Research and biorxiv).
-
-- Huang S, <b>Komljenovic A</b>, Barbieri CE et al. (2022): *Single-cell recovery of the prostate cancer transcription factor AP-1*. (in preparation)
+- Huang S, <b>Komljenovic A</b>, Barbieri CE et al. (2022): *Single-cell recovery of the prostate cancer transcription factor AP-1*. (prepared, submitted to Nature)
 
 
 ***
