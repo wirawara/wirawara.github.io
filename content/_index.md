@@ -1,7 +1,7 @@
 ---
 site: blogdown:::blogdown_site
 layout: page
-title: Andrea Komljenovic - Curriculum Vitae
+title: Dr. Andrea Komljenovic - Curriculum Vitae
 --- 
 
 #### Research experience
