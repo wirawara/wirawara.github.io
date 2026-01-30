@@ -9,6 +9,11 @@ title: Publications
 [![](/icons16/doi-icon.png)](https://doi.org/10.12688/f1000research.9973.2)
 [![](/icons16/pdf-icon.png)](https://f1000researchdata.s3.amazonaws.com/manuscripts/16883/31a604f2-8791-4bba-abbb-5fb8cdd9db7c_9973_-_frederic_bastian_v2.pdf?doi=10.12688/f1000research.9973.2&numberOfBrowsableCollections=78&numberOfBrowsableInstitutionalCollections=4&numberOfBrowsableGateways=48)
 
+- </b>Kerndl M</b>, </b>Vogel A</b>, </b>Komljenovic A</b>, Bausbacher T, Riedl C, Sango R, Oberbichler L, Korosec A, Musiejovsky L, Hofmann M, Kieler M, Garrido Quemada L, Brunner J, Cairns JL, Cheng P, Kitt K, Isaguirre C, Köcher T, Rattei T, Hametner S, Hopf C, Sheldon RD, Sharif O, Schabbauer G. Infiltration of monocyte-derived macrophages perturbs the CNS metabolic landscape licensing arginine catabolism and augments neuro-inflammation (submitted – Nature Immunology), 2023.
+
+- Kieler M, Pramer LS, Heller G, Hofmann M, Spreger S, Hanetseder D, Niederreiter B, Komljenovic A et al. Itaconate mediates a metabolic crosstalk between osteoclasts and osteoblasts, Annals of the Rheumatic Diseases 83 (Suppl 1), 644-644, 2024.
+  [![](/icons16/doi-icon.png)](https://doi.org/10.1136/ard-2023-224898) 
+
 - <b>Komljenovic A</b>, Li H, Kutalik Z, Auwerx J, Robinson-Rechavi M (2019): *Cross-species functional modules link proteostasis to human normal aging*. PLoS Computational Biology 15 (7), e1007162.
 [![](/icons16/doi-icon.png)](https://doi.org/10.1371/journal.pcbi.1007162)
 [![](/icons16/pdf-icon.png)](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007162&type=printable)
