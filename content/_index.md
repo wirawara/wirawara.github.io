@@ -4,7 +4,7 @@ layout: page
 title: Dr. Andrea Komljenovic - Curriculum Vitae
 --- 
 
-![Andrea Komljenovic](andreak_with_background.jpg){width=300px}{height: 200px}
+<img src="andreak_with_background.jpg" alt="Andrea Komljenovic" width="200" height="300"/>
 
 #### Research experience
 
