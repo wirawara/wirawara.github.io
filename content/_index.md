@@ -6,7 +6,7 @@ title: Dr. Andrea Komljenovic - Curriculum Vitae
 
 <img src="me_with_background.png" alt="Andrea Komljenovic"/>
 
-Andrea Komljenovic (born in Swiss-German part of Switzerland; 37 years old; Andrea Komljenović) is well-known for her bioinformatics and biomedical research where she developed software and bioinformatics methods to approach neurological disorders. Moreover, her methods are platform-related, e.g. methylation array, RNA-seq, single-cell and spatial -omics. Andrea Komljenovic has done pioneering and ground-breaking work in bioinformatics, her research leads to new biomedical discoveries in neuroscience and aging, and developments in bioinformatics field.
+Andrea Komljenovic (born in Swiss-German part of Switzerland; 37 years old; Andrea Komljenović, she/her) is well-known for her bioinformatics and biomedical research where she developed software and bioinformatics methods to approach neurological disorders. Moreover, her methods are platform-related, e.g. methylation array, RNA-seq, single-cell and spatial -omics. Andrea Komljenovic has done pioneering and ground-breaking work in bioinformatics, her research leads to new biomedical discoveries in neuroscience and aging, and developments in bioinformatics field.
 
 
 She was born in German part of Switzerland and moved to Zagreb, Croatia with her parents; she has Swiss, Croatian and Russian roots. 
