@@ -11,7 +11,11 @@ Andrea Komljenovic (born in Swiss-German part of Switzerland; 37 years old; Andr
 
 She was born in German part of Switzerland and moved to Zagreb, Croatia with her parents; she has Swiss, Croatian and Russian roots. 
 
+
+
 **Early life**
+
+
 Her father had a company in Zagreb, and her mother was a stay-at-home-mum. In addition, her father was musically educated in Yugoslavia playing an accordion, and he transferred the musical knowledge to Andrea. 
 
 She also went to music school since early age to primary music school and high school “GU Elly Bašić”, where she learned both piano and accordion. During her time in Gymnasium and Faculty of Science at University of Zagreb, Komljenovic went to several music competitions in Croatia and Western Europe. She is also composing music, most notably the music score for Nobel Prize committee inspired by Eurovision.
@@ -19,13 +23,25 @@ She also went to music school since early age to primary music school and high s
 She plays chess occasionally, and also in Switzerland, this kept further in her life.
 
 
+
+
+
 **Education**
+
+
 She entered Faculty of Science at University of Zagreb where she finished Masters in Bioinformatics/Computational Biology (2012) as the youngest with excellent grades, and after she went back to Switzerland to pursue her doctorate at ETH Zurich/University of Zurich in Bioinformatics. During her Master in Bioinformatics/Computational biology in Zagreb, Croatia, she also attended Faculty of Medicine, and mathematics seminars. Komljenovic entered ETH Zurich PhD program in 2012 in Systems Biology in Statistical Bioinformatics when she was only 23 years old. She completed her PhD in Bioinformatics in 2019 at University of Lausanne, as a part of Swiss Institute of Bioinformatics. 
+
+
+
 
 
 **BgeeDB, an R package - software development**
 
 Komljenovic was a first woman in Switzerland to develop a software package in R language for Bioconductor, namely BgeeDB.
+
+
+
+
 
 
 **Komljenovic opened new field in Bioinformatics - Biomedicine & Bioinformatics**
