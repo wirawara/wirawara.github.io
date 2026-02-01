@@ -44,6 +44,8 @@ Komljenovic was a first woman in Switzerland to develop a software package in R 
 
 
 
+
+
 **Komljenovic opened new field in Bioinformatics - Biomedicine & Bioinformatics**
 
 Andrea Komljenovic developed new mathematical methods in the field of bioinformatics and biomedicine that she opened in 2012 during her doctorate at University of Zurich, Switzerland. Her groundbreaking work in bioinformatics is related to development of data integration methodology, multi-omics, development the methods for different experimental methods, performing benchmarks of the methods. She also applies machine learning methods in biomedical research. Currently, she is finishing the Spatial Multi-Omics book,and understanding artificial intelligence algorithms in biomedical research. 
@@ -52,6 +54,9 @@ Komljenovic's research related to bioinformatics was performed also under Swiss 
 
 
 She is an active person on social media, where she promotes the bioinformatics research and music in this digital age. Experimenting with artificial intelligence algorithms, she created a “Bioinformatics Barbie/Barbie Tech”, basically being herself, a character to promote bioinformatics and technology in an attractive way to use technology, where the Dior showed interest for the research performed at EPFL in their "Reverse Aging" campaign.
+
+
+
 
 #### Research experience
 
