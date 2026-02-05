@@ -56,7 +56,7 @@ Andrea Komljenovic developed new mathematical methods in the field of bioinforma
 Komljenovic's research related to bioinformatics was performed also under Swiss Science Prize Marcel Benoist winner from 2016 at EPFL in Lausanne, Switzerland. She was also awarded with the SystemsX fellowship during her doctorate in Switzerland. Komljenovic has 7 papers during her doctorate that is completed and awarded with a doctor title and one article was published in Nature Communications.
 
 
-She is an active person on social media, where she promotes the bioinformatics research and music in this digital age. Experimenting with artificial intelligence algorithms, she created a “Bioinformatics Barbie/Barbie Tech”, basically being herself, a character to promote bioinformatics and technology in an attractive way to use technology, where the Dior showed interest for the research performed at EPFL in their "Reverse Aging" campaign.
+She is an active person on social media, where she promotes the bioinformatics research and music in this digital age. Experimenting with artificial intelligence algorithms, she created a “Bioinformatics Barbie/Barbie Tech”, basically being herself, a character to promote bioinformatics and technology in an attractive way to use technology, where Dior showed interest for the research performed at EPFL in their "Reverse Aging" campaign.
 
 
 
