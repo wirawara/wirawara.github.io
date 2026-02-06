@@ -24,15 +24,12 @@
 
 <link rel="stylesheet" href="https://wirawara.github.io/css/main.css">
 
-<style>
-  .home body {
-    background-image: url("{{ .Params.background }}");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 100vh;
-  }
-</style>
+{{ define "main" }}
+<div class="home"
+     style="background-image: url('{{ .Params.background }}');">
+  {{ .Content }}
+</div>
+{{ end }}
 
 
 
