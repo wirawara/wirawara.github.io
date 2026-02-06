@@ -1,6 +1,6 @@
 html, body {
     height: 100%;
-    background: url("/images/IMG_8691.JPG");
+    background-image: url("/images/IMG_8691.JPG");
     background: transparent;
     background-size: cover;
     background-position: center;
@@ -11,7 +11,7 @@ body {
     display: flex;
     text-align: center;
     flex-direction: column;
-    background: url("/images/IMG_8691.JPG") center / cover no-repeat fixed;
+    background-image: url("/images/IMG_8691.JPG") center / cover no-repeat fixed;
     background: transparent;
 }
 
