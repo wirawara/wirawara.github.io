@@ -1,9 +1,5 @@
 html, body {
     height: 100%;
-    background-image: url("/images/IMG_8691.JPG");
-    background: transparent;
-    background-size: cover;
-    background-position: center;
 }
 
 .home body {
@@ -11,10 +7,6 @@ html, body {
     display: flex;
     text-align: center;
     flex-direction: column;
-    background-image: url("/images/IMG_8691.JPG");
-    background: transparent;
-    background-size: cover;
-    background-position: center;
 }
 
 main {
@@ -22,10 +14,6 @@ main {
     padding: 25px;
     flex: 1 0 auto;
     max-width: 750px;
-    background-image: url("/images/IMG_8691.JPG");
-    background: transparent;
-    background-size: cover;
-    background-position: center;
 }
 
 img {
