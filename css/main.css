@@ -2,6 +2,32 @@ html, body {
     height: 100%;
 }
 
+.page-bg {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.page-bg-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 0;
+}
+
+/* Content stays readable */
+.page-content {
+  position: relative;
+  z-index: 1;
+  color: white;
+  padding: 4rem 2rem;
+  padding-top: 6rem; /* adjust to navbar height */  
+}
+
 body {
     padding-top: 55px;
     display: flex;
