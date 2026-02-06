@@ -24,7 +24,14 @@
 
 <link rel="stylesheet" href="https://wirawara.github.io/css/main.css">
 
-<body style="background-image: url('{{ .Params.bg }}')">
+<style>
+  body {
+    background-image: url("{{ .Params.background }}");
+    background-size: cover;
+    background-position: center;
+  }
+</style>
+
 
 
 
