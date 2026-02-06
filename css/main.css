@@ -13,6 +13,8 @@ body {
     flex-direction: column;
     background-image: url("/images/IMG_8691.JPG") center / cover no-repeat fixed;
     background: transparent;
+    background-size: cover;
+    background-position: center;
 }
 
 main {
@@ -22,6 +24,8 @@ main {
     max-width: 750px;
     background-image: url("/images/IMG_8691.JPG") center / cover no-repeat fixed;
     background: transparent;
+    background-size: cover;
+    background-position: center;
 }
 
 img {
