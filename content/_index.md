@@ -2,7 +2,6 @@
 site: blogdown:::blogdown_site
 layout: page
 title: Dr. Andrea Komljenovic - Curriculum Vitae
-background: "/images/IMG_8691.JPG"
 --- 
 
 <img src="me_with_background.png" alt="Andrea Komljenovic"/>
