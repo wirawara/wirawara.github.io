@@ -1,2 +1,18 @@
 <link rel="stylesheet" href="/css/main.css">
 
+{{ define "main" }}
+
+<div class="page-bg"
+     style="background-image: url('{{ .Params.background }}');">
+
+  {{ if .Params.overlay }}
+  <div class="page-bg-overlay"></div>
+  {{ end }}
+
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+
+</div>
+
+{{ end }}
