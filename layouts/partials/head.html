@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="/css/main.css">
 
-<style>
-  body {
-    background-image: url("{{ .Params.background }}");
-    background-size: cover;
-    background-position: center;
-  }
-</style>
+{{ define "main" }}
+<div class="home"
+     style="background-image: url('{{ .Params.background }}');">
+  {{ .Content }}
+</div>
+{{ end }}
