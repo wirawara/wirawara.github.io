@@ -6,7 +6,7 @@ html, body {
     background-position: center;
 }
 
-body {
+.home body {
     padding-top: 55px;
     display: flex;
     text-align: center;
