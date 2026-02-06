@@ -1,5 +1,8 @@
 html, body {
     height: 100%;
+    background-image: url("/images/IMG_8691.JPG.jpg"); 
+    background-size: cover; 
+    background-position: center;
 }
 
 body {
@@ -7,6 +10,9 @@ body {
     display: flex;
     text-align: center;
     flex-direction: column;
+    background-image: url("/images/IMG_8691.JPG.jpg"); 
+    background-size: cover; 
+    background-position: center;
 }
 
 main {
@@ -14,6 +20,9 @@ main {
     padding: 25px;
     flex: 1 0 auto;
     max-width: 750px;
+    background-image: url("/images/IMG_8691.JPG.jpg"); 
+    background-size: cover; 
+    background-position: center;
 }
 
 img {
