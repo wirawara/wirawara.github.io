@@ -104,4 +104,4 @@ BSc Biochemistry,
 University of Zagreb, Zagreb, Croatia
 
 - **2002-2006**  
-Gymnasium, Zagreb, Croatia
+Gymnasium, Zagreb, Croatia  / High Music School "Elly Basic"
