@@ -8,7 +8,7 @@ overlay: true
 
 <img src="me_with_background.png" alt="Andrea Komljenovic"/>
 
-Andrea Komljenovic (born in Swiss-German part of Switzerland; 37 years old; Andrea Komljenović, she/her) is well-known for her bioinformatics and biomedical research where she developed software and bioinformatics methods to approach neurological disorders. Moreover, her methods are platform-related, e.g. methylation array, RNA-seq, single-cell and spatial -omics. Andrea Komljenovic has done pioneering and ground-breaking work in bioinformatics, her research leads to new biomedical discoveries in neuroscience and aging, and developments in bioinformatics field.
+Andrea Komljenovic (born in Swiss-German part of Switzerland; 37 years old; Andrea Komljenović, she/her) is well-known for her bioinformatics and biomedical research where she developed software and bioinformatics methods for sequencing methodologies to approach neurological disorders. Moreover, her methods are sequencing platform-related, e.g. methylation array, RNA-seq, single-cell and spatial -omics. Andrea Komljenovic has done pioneering and ground-breaking work in bioinformatics, her research leads to new biomedical discoveries in neuroscience and aging, and developments in bioinformatics field.
 
 
 She was born in German part of Switzerland and moved to Zagreb, Croatia with her parents; she has Swiss, Croatian and Russian roots. 
@@ -56,7 +56,7 @@ Komljenovic was a first woman in Switzerland to develop a software package in R 
 
 **Komljenovic opened new field in Bioinformatics - Medicine & Bioinformatics**
 
-Andrea Komljenovic developed new mathematical methods in the field of bioinformatics and biomedicine that she opened in 2012 during her doctorate at University of Zurich, Switzerland. Her groundbreaking work in bioinformatics is related to development of data integration methodology, multi-omics, development the methods for different experimental methods, performing benchmarks of the methods. She also applies machine learning methods in biomedical research. Currently, she is finishing the Spatial Multi-Omics book,and understanding artificial intelligence algorithms in biomedical research. 
+Andrea Komljenovic developed new mathematical methods in the field of bioinformatics and biomedicine that she opened in 2012 during her doctorate at University of Zurich, Switzerland. Her groundbreaking work in bioinformatics is related to development of data integration methodology, multi-omics, development the methods for different sequencing experimental methods, performing benchmarks of the methods. She also applies machine learning methods in biomedical research. Currently, she is finishing the Spatial Multi-Omics book,and understanding artificial intelligence algorithms in biomedical research. 
 
 Komljenovic's research related to bioinformatics was performed also under Swiss Science Prize Marcel Benoist winner from 2016 at EPFL in Lausanne, Switzerland. She was also awarded with the SystemsX fellowship during her doctorate in Switzerland. Komljenovic has 7 papers during her doctorate that is completed and awarded with a doctor title and one article was published in Nature Communications.
 
