@@ -17,6 +17,10 @@ title: Music
 
 ![Me at the piano](andreak_atthepiano.png)
 
+![Hi from Vienna piano room!](IMG_2810.JPG)
+
+![Me signing Whitney Houston cover!](IMG_2637.JPG)
+
 
 
 
