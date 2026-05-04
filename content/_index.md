@@ -84,11 +84,11 @@ University Hospital Lausanne, Lausanne, Switzerland
 #### Education
 
 - **2014-2019**  
-PhD Student, Evolutionary Bioinformatics, Robinson-Rechavi group, 
+PhD Student, Evolutionary Bioinformatics, Robinson-Rechavi group, Swiss Institute of Bioinformatics,
 University of Lausanne, Lausanne, Switzerland
 
 - **2012-2014**  
-PhD Student, Statistical Bioinformatics, Robinson group, 
+PhD Student, Statistical Bioinformatics, Robinson group, Swiss Institute of Bioinformatics,
 University of Zurich, Zurich, Switzerland
 
 - **2009-2012**  
