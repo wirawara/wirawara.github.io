@@ -69,26 +69,23 @@ She is an active person on social media, where she promotes the bioinformatics r
 #### Research experience
 
 - **2022-current**  
-Postdoctoral Researcher (Bioinformatics), Schabbauer/Sharif group, 
-Medical University Vienna, Vienna, Austria
+Postdoctoral Researcher (Bioinformatics), Medical University Vienna, Vienna, Austria
 
 - **2021-2022**  
-Postdoctoral Researcher (Bioinformatics), Barbieri/Sboner group, 
-Weill Cornell Medicine, New York, USA
+Postdoctoral Researcher (Bioinformatics), Weill Cornell Medicine, New York, USA
 
 - **2020-2021**  
-Postdoctoral Researcher (Bioinformatics), Harari group, 
-University Hospital Lausanne, Lausanne, Switzerland
+Postdoctoral Researcher (Bioinformatics), University Hospital Lausanne, Lausanne, Switzerland
 
 
 #### Education
 
 - **2014-2019**  
-PhD Student, Evolutionary Bioinformatics, Robinson-Rechavi group, Swiss Institute of Bioinformatics,
+PhD Student, Evolutionary Bioinformatics, Swiss Institute of Bioinformatics,
 University of Lausanne, Lausanne, Switzerland
 
 - **2012-2014**  
-PhD Student, Statistical Bioinformatics, Robinson group, Swiss Institute of Bioinformatics,
+PhD Student, Statistical Bioinformatics, Swiss Institute of Bioinformatics,
 University of Zurich, Zurich, Switzerland
 
 - **2009-2012**  
